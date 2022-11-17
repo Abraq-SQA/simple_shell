@@ -104,7 +104,6 @@ typedef struct passinfo
  *@type: the builtin command flag
  *@func: the function
  */
-
 typedef struct builtin
 {
 	char *type;
